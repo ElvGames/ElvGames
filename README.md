@@ -8,7 +8,4 @@ https://elv-games.itch.io/
 Sub to my YT Channel!
 https://www.youtube.com/channel/UC19IV5FFMx1mlpmOom3x6XQ
 
-Join my discord!
-https://discord.gg/rWV3NxsKYr
-
 [![Elvga's GitHub stats](https://github-readme-stats.vercel.app/api?username=ElvGames&theme=radical)](https://github.com/ElvGames)  
